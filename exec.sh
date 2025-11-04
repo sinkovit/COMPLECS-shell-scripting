@@ -1,0 +1,2 @@
+#!/bin/bash
+mystr="abcd"
